@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92162d10-76f2-43de-9f4b-3b897f4991e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/inheritance/Constable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/inheritance/Farmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/inheritance/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/company/ConstableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/company/FarmerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/company/WarriorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPGInheritance.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="92162d10-76f2-43de-9f4b-3b897f4991e0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
